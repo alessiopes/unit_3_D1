@@ -1,0 +1,59 @@
+/* 1 ------- */
+.jumbotron h1 {
+  color: #ff0000;
+}
+
+/* 2 -------- */
+.nav > span {
+  color: red;
+}
+
+/* 3 ------- */
+.jumbotron a {
+  color: red;
+}
+
+/* 4 ------ */
+.blog-post:first-of-type {
+  background: yellow;
+}
+
+/* 5 ------ */
+.blog-post:first-of-type hr {
+  border: 5px solid red;
+}
+
+/* 6 ----- */
+.nav > span:nth-child(even) {
+  font-weight: 900;
+}
+
+/* 7 ------ */
+aside div:nth-of-type(2) ol li {
+  font-weight: 900;
+}
+
+/* 8 ------ */
+.blog-post:nth-of-type(2) .blog-post-meta a {
+  font-size: 30px;
+}
+
+/* 9 ----- */
+.blog-post:nth-of-type(3) li:nth-of-type(2) {
+  color: red;
+}
+
+/* 10 ----- */
+body > a:last-of-type {
+  font-weight: 900;
+}
+
+/* 11 ----- */
+.blog-pagination a:last-of-type {
+  font-weight: 900;
+}
+
+/* 12 ----- */
+footer a:nth-of-type(2) {
+  color: red;
+}
